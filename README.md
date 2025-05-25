@@ -9,7 +9,7 @@
 - AI-powered disease diagnosis using symptom input, dietary information, and geolocation.
 - User-friendly and intuitive interface.
 - Clean, modern app icon and design focused on healthcare and technology integration.
-- Bilingual support (English and Amharic) with easy language switching.
+- Multilingual support (English, Amharic, Affan oromo, Tigrigna, Aff Somali, French, Arabic) with easy language switching.
 - Medication management features including scheduling, dosage tracking, and refill reminders.
 - Dark and light mode themes.
 - Offline functionality with secure local data storage.
@@ -19,13 +19,7 @@
 ---
 
 ## Installation
-
-### Prerequisites
-
-- Node.js (version 16 or later recommended)
-- Android Studio or Xcode for mobile platform builds
-- Internet connection for initial setup
-
+ 
 ### Setup
 
 1. Clone the repository:
